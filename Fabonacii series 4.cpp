@@ -5,7 +5,7 @@ int main()
 	int n,first = 0,second = 1, next,i;
 	printf("Enter the number of terms: ");
 	scanf("%d", &n);
-	printf("fabonacci series ; ");
+	printf("fibonacci series ; ");
 	for ( i = 0; i < n; i++)
 	{
 		if (i <=1)
